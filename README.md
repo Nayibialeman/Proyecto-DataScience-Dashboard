@@ -32,7 +32,7 @@ Descarga la Data usada del siguiente link ya que es pesada y no se pudo adjuntar
 - Pandas / NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
-- Google Colab (entorno sugerido)
+- Google Colab/ Spyder/ Visual Studio Code
 - Git & GitHub
 
 ---
